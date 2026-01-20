@@ -13,9 +13,10 @@ Project structure:
 │   └── main.go
 ├── db
 │   └── password.txt
-├── compose.yaml
 ├── proxy
 │   └── nginx.conf
+├── .gitignore
+├── compose.yaml
 └── README.md
 ```
 
